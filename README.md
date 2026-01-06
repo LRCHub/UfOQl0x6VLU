@@ -1,0 +1,52 @@
+# KEIJU – I Get Lonely
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Boothに立つ俺はNeighbor
+時になる君のSavior
+でも俺もなる大げさなネイマール
+I can hear you playing Cam'ronのHey ma
+明日になりゃいつも君がいい
+I get money まるでTonyを見るように
+なぁ、でも何?金じゃ愛は買えない
+赤、黄色でも 俺ら止まれない
+いつものようにやることをやり
+毎日を君みたいに走る
+愛したり愛されたかったり
+開き直り言う You can hate on me
+Listen.
+*
+Sometimes I get lonely
+溢れ出るほどに
+まるで君のように
+忘れたりしない
+愛して止まない That's why I cry.
+All Through the night.
+愛して止まない Oh my God. Just like you.
+Fake Love. It's too much.
+She just wanna be famous.
+I gotta go now. It's too late.
+Cuz I don't wanna be a player anymore.
+Fake Love. It's too much.
+She just wanna be famous.
+I gotta go now. It's too late.
+Cuz I don't wanna be a player anymore.
+俺とお前がどう あり得ない
+I never cry for you. 嘘ない付き合う気
+I wanna ask you one thing.
+Why do you act like you know me?
+名前も知らない 地元も言わない
+お前との出会い 気づきゃいたBehind
+本当は何も感じなかったwhen you say, Hi.
+でもsorry not sorry マジ I gave you the night
+Baby be mine. なんて俺が言うわけない
+I think I'm talking too much now but良い具合
+This for my wife for life, man. 遊びじゃない
+たまに泣くくらいでfxxx what's on your mind?俺が
+言うあいつの話はお前じゃない
+Iceのよう冷たい血 思い出す目眩
+こんなはずじゃないけど Let me say goodbye 君の幸
+せ願い もう無駄にしない
+*Repeat
+```
