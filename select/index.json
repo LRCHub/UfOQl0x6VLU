@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "I Get Lonely",
+  "base_artist": "KEIJU",
+  "createdAt": "2026-01-06T04:59:57.042592Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Get Lonely",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/01_I_Get_Lonely_Drake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Get Lonely",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/02_I_Get_Lonely_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Get Lonely (Jam & Lewis Feel My Bass mix)",
+      "artist": "Janet Jackson",
+      "has_synced": false,
+      "path": "select/03_I_Get_Lonely_(Jam_&_Lewis_Feel_My_Bass_mix)_Janet_Jackson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Get Lonely (Janet Vs. Jason - The Club Remix)",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/04_I_Get_Lonely_(Janet_Vs._Jason_-_The_Club_Remix)_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Get Lonely (Janet vs․ Jason the club remix)",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/05_I_Get_Lonely_(Janet_vs._Jason_the_club_remix)_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sometimes I Get Lonely",
+      "artist": "The Time",
+      "has_synced": true,
+      "path": "select/06_Sometimes_I_Get_Lonely_The_Time.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Get Lonely (Janet Vs Jason - The Club Remix)",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/07_I_Get_Lonely_(Janet_Vs_Jason_-_The_Club_Remix)_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Get Lonely",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/08_I_Get_Lonely_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Get Lonely (1998)",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/09_I_Get_Lonely_(1998)_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "i get lonely around people, too",
+      "artist": "San Holo",
+      "has_synced": true,
+      "path": "select/10_i_get_lonely_around_people,_too_San_Holo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "10 i get lonely around people, too",
+      "artist": "San Holo",
+      "has_synced": true,
+      "path": "select/11_10_i_get_lonely_around_people,_too_San_Holo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Get Lonely",
+      "artist": "Janet Jackson",
+      "has_synced": false,
+      "path": "select/12_I_Get_Lonely_Janet_Jackson.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Get Lonely (Album Version)",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/13_I_Get_Lonely_(Album_Version)_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Get Lonely (Jam & Lewis Feel My Bass Mix)",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/14_I_Get_Lonely_(Jam_&_Lewis_Feel_My_Bass_Mix)_Janet_Jackson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Get Lonely",
+      "artist": "KEIJU",
+      "has_synced": false,
+      "path": "select/pl_01_I_Get_Lonely_KEIJU.txt"
+    }
+  ]
+}
